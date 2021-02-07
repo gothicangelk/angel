@@ -36,7 +36,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
        'internet': 'Internet',
        'downloader': 'Downloader',
        'ferramentas': 'Ferramentas',
-       'legal legal',
+       'legal' : 'legal',
        'jadibot': 'Jadi Bot',
        'proprietário': 'Proprietário',
        'host': 'Host',
