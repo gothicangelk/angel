@@ -309,8 +309,8 @@ global.dfail = (type, m, conn) => {
     premium: 'Este comando é apenas para membros _*Premium*_ !',
     group: 'Este comando só pode ser usado em grupos! ',
     private: 'Isso só pode ser usado em chats privados!',
-    admin: 'Este comando é apenas para grupos _*Admin*_!,
-    botAdmin: 'Torne o bot um _*Admin*_ para usar este comando!'
+    admin: 'Este comando é apenas para _*Admin*_ dos grupos!',
+    botAdmin: 'Torne o bot um _*Admin*_ para usar este comando!',
   }[type]
   if (msg) conn.reply(m.chat, msg, m)
 }
