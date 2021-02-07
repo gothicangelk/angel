@@ -26,7 +26,7 @@ global.bucin = [
   "Escolho ficar sozinha, não por esperar o perfeito, mas nunca preciso desistir. ",
   "Uma única pessoa foi criada com um parceiro que não havia encontrado.",
   "Solteiros. Talvez seja a maneira de Deus dizer 'Descansa do amor errado'.",
-  “Solteiros são jovens que priorizam seu desenvolvimento pessoal para um amor mais elegante depois.”,
+
   "Não procuro alguém que seja perfeito, mas procuro alguém que se torna perfeito graças à minha força.",
   "O namorado de alguém é nosso casamento pendente.",
   "Os solteiros devem passar. Chega um momento em que toda solidão se torna uma união com seu amante halal. Seja paciente.",
@@ -45,15 +45,15 @@ global.bucin = [
   "Prometa estar comigo agora, amanhã e para sempre.",
   "A falta surge não só por causa da distância. Mas também por causa de desejos que não se realizam.",
   "Você nunca estará longe de mim, onde quer que eu vá você está sempre lá, porque você está sempre no meu coração, que é apenas o nosso corpo, não o nosso coração."
-  “Sei que em todos os meus olhares, somos bloqueados pela distância e pelo tempo. Mas tenho certeza que mais tarde nos uniremos.”,
+
   "Sentir sua falta sem nunca se encontrar é como criar uma música que nunca canta.",
   "Há momentos em que a distância é sempre uma barreira entre eu e você, mas ainda no meu coração estamos sempre próximos.",
   "Se este coração é incapaz de conter todo o desejo, que poder posso fazer senão orar por você."
-  “Talvez neste momento eu só aguente essa saudade. Até que chegue a hora eu posso me encontrar e me livrar dessa saudade com você.”,
+  
   "Através da saudade que inflama em meu coração, às vezes eu realmente preciso segurar seu abraço de amor.",
   "Na noite fria, não me lembro mais; Quantas vezes penso em você também.",
   "Sentir sua falta é como uma chuva que vem de repente e dura muito tempo. E mesmo depois que a chuva passou, minha saudade ainda era sentida.",
-  “Desde que te conheci, naturalmente quero continuar aprendendo, aprendendo a ser o melhor pra você.”,
+  
   "Você sabe a diferença entre pensi e seu rosto? Se o lápis de escrita puder ser apagado, mas se seu rosto não estiver, não haverá nada que possa ser apagado da minha mente.",
   "Não é o Exame Nacional de amanhã que tenho que me preocupar, mas o teste de vida que fiz depois que você me deixou.",
   "Uma coisa que a felicidade na escola me deixa animado é poder ver o seu sorriso todos os dias.",
@@ -67,7 +67,7 @@ global.bucin = [
   "Coma o que eu quiser de você, incluindo comer fígado.",
   "O amor é como uma sentença de morte. Se você não levar um tiro, você é enforcado."
   "Amar você é como uma droga: uma vez que você tenta ser viciante, não tentando deixá-lo curioso, deixar para trás faz você se retrair.",
-  “Gosto mais de petiscar porque petiscar é uma delícia. Além disso, ter você completamente ...”,
+  
   "Este mundo pertence apenas a nós dois. Os outros estão apenas se contraindo.",
   "Para mim, todos esses dias são terça-feira. Terça-feira no céu se perto de você ...",
   "E se nós dois nos tornarmos criminosos de gangue? Eu roubei seu coração e você roubou o meu.",
@@ -101,7 +101,7 @@ global.bucin = [
   "Você é o primeiro e o primeiro na minha vida. Mas eu sou o segundo para você.",
   "Se apenas nos encontrarmos num sonho, quero dormir para sempre.",
   "Ver você feliz é a minha felicidade, mesmo que você seja feliz sem estar comigo.",
-  “Às vezes invejo um objeto. Não tenho gosto mas sempre precisei. Ao contrário de mim que tem sentimentos, mas é abandonado e negligenciado ...”,
+
   "Como eu poderia me mover se você meu coração parasse?",
   "Memórias sobre você são como um lar para mim. Assim, cada vez que meus pensamentos vagam, certamente as arestas sempre voltarão para você.",
   "Porque o tecido é útil? Porque o amor nunca seca. - Sujiwo Tejo",
@@ -111,7 +111,7 @@ global.bucin = [
   "Não sou uma boa pessoa, mas vou aprender a ser o melhor para você.",
   "Não estamos mortos, mas a ferida nos impede de andar como antes.",
   "sua existência é como uma xícara de café de que preciso todas as manhãs, o que pode me encorajar a ficar animado com o dia.",
-  “Eu realmente quero dar o mundo para você. Mas porque não é possível, então eu vou te dar a coisa mais importante da minha vida, que é o meu mundo.”,
+
   "Remendando cantar bem-humorado, mas doce, ao invés de final romântico pretensioso, mas trágico.",
   "Ben está finalmente desapontado, você tem que entender quando esperar e quando travar.",
   "I ki wong Jowo seng ora entende a arte 'I Love U'. Mas eu entendo mek 'I tresno your crew'.",
