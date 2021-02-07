@@ -303,14 +303,14 @@ conn.on('close', async () => {
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: 'Perintah ini hanya dapat digunakan oleh _*OWNER Bot 1*_',
-    owner: 'Perintah ini hanya dapat digunakan oleh _*Owner Bot*_!',
-    mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator BOT*_ !',
-    premium: 'Perintah ini hanya untuk member _*Premium*_ !',
-    group: 'Perintah ini hanya dapat digunakan di grup!',
-    private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
-    admin: 'Perintah ini hanya untuk *Admin* grup!',
-    botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!'
+    rowner: 'Este comando só pode ser usado por _*OWNER Bot 1*_',
+    owner: 'Este comando só pode ser usado por _*Owner Bot*_!',
+    mods: 'Este comando só pode ser usado por _*Moderator BOT*_ !',
+    premium: 'Este comando é apenas para membros _*Premium*_ !',
+    group: 'Este comando só pode ser usado em grupos! ',
+    private: 'Isso só pode ser usado em chats privados!',
+    admin: 'Este comando é apenas para grupos * Admin *!,
+    botAdmin: 'Torne o bot um *Admin* para usar este comando!'
   }[type]
   if (msg) conn.reply(m.chat, msg, m)
 }
