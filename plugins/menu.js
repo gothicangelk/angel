@@ -1,5 +1,5 @@
 let fs = require ('fs')
-let path = require('caminho')
+let path = require('path')
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   try {
     let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
